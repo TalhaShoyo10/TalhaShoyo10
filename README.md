@@ -13,7 +13,7 @@ Undergraduate CS student at **LUMS** (Expected Graduation: 2028) with a focus on
 **Deployment:** FastAPI · Streamlit · Gradio  
 **Databases & Vector:** Pinecone  
 **APIs & Services:** Google Gemini API · Tavily · HuggingFace  
-**Tools:** Git · GitHub · VS Code  
+**Tools:** Git · GitHub · VS Code · Jupyter Notebook
 
 ---
 
