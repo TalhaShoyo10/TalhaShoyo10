@@ -9,7 +9,7 @@ Undergraduate CS student at **LUMS** (Expected Graduation: 2028) with a focus on
 ## 🛠️ Tech Stack
 
 **Languages:** Python · C/C++ · CSS  
-**ML / DL:** TensorFlow · PyTorch · Scikit-learn · NumPy · Pandas · LangChain  
+**ML / DL:** PyTorch · Scikit-learn · NumPy · Pandas · LangChain  
 **Deployment:** FastAPI · Streamlit · Gradio  
 **Databases & Vector:** Pinecone  
 **APIs & Services:** Google Gemini API · Tavily · HuggingFace  
@@ -19,8 +19,8 @@ Undergraduate CS student at **LUMS** (Expected Graduation: 2028) with a focus on
 
 ## 🚀 Featured Projects
 
-### 🔐 [CAPTCHA Verification System](https://github.com/talhamasood)
-> *Python · TensorFlow · Streamlit · FastAPI*
+### 🔐 [CAPTCHA Verification System](https://github.com/TalhaShoyo10/CAPTCHA)
+> *Python · PyTorch · Streamlit · FastAPI*
 
 CNN trained on MNIST for handwritten digit recognition, served via a FastAPI endpoint. Includes an interactive Streamlit canvas and visual noise injection to resist automated bypass.
 
