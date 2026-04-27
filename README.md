@@ -33,7 +33,7 @@ Full Retrieval-Augmented Generation pipeline with a multi-source fallback archit
 
 ---
 
-### 📊 [Social Media Analytics Backend](https://github.com/talhamasood)
+### 📊 [Social Media Analytics Backend](https://github.com/TalhaShoyo10/Social-Media-Analytics-Backend)
 > *C++ · OOP · Data Structures*
 
 Custom data structures (linked lists, memory pools, AVL trees) powering a graph-based analytics engine. Implements Dijkstra's, Kruskal's, PageRank, and Kahn's algorithms for pathfinding, influence ranking, and community detection.
