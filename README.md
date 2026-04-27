@@ -26,7 +26,7 @@ CNN trained on MNIST for handwritten digit recognition, served via a FastAPI end
 
 ---
 
-### 🤖 [RAG Chatbot — Little Angels Montessori](https://github.com/talhamasood)
+### 🤖 [RAG Chatbot — Little Angels Montessori](https://github.com/TalhaShoyo10/Agent)
 > *Python · LangChain · Gemini · Pinecone · Tavily · Gradio*
 
 Full Retrieval-Augmented Generation pipeline with a multi-source fallback architecture: internal knowledge base → session documents (PDF/image/OCR) → live web search via Tavily. Conversational Gradio front-end.
