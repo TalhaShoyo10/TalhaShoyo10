@@ -40,7 +40,7 @@ Custom data structures (linked lists, memory pools, AVL trees) powering a graph-
 
 ---
 
-### 🧠 [ML Algorithms from Scratch](https://github.com/talhamasood)
+### 🧠 [ML Algorithms from Scratch](https://github.com/TalhaShoyo10/ML-Algos-from-Scratch)
 > *Python · NumPy · Scikit-learn*
 
 Pure Python/NumPy implementations of Linear Regression, Logistic Regression, Naïve Bayes, Neural Network, and CART, benchmarked against Scikit-learn equivalents.
